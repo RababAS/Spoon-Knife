@@ -10,7 +10,7 @@ namespace TestConsoleAppForGit
     {
         static void Main(string[] args)
         {
-            testc
+            Console.WriteLine("Hello World");
         }
     }
 }
